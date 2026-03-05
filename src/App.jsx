@@ -8,6 +8,7 @@ import TaskStatus from './components/TaskStatus/TaskStatus'
 
 import { toast, ToastContainer } from "react-toastify"
 import 'react-toastify/dist/ReactToastify.css'
+import Footer from './components/Footer/Footer'
 
 const fetchCustomers = async () => {
   const res = await fetch("/tickets.json")
@@ -78,6 +79,7 @@ function App() {
         </div>
 
         <ToastContainer></ToastContainer>
+        <Footer></Footer>
       </div>
 
     </>
