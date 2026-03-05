@@ -19,7 +19,7 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <div>
-                        <button className="btn font-semibold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] ...  text-white">+ New Ticket</button>
+                        <button className="btn font-semibold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white">+ New Ticket</button>
                     </div>
                 </div>
             </div>
