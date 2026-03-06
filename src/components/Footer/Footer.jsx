@@ -11,7 +11,7 @@ const Footer = () => {
                 <aside>
                    <h1 className="font-bold">CS — Ticket System</h1>
                     <p className="text-[#A1A1AA]">
-                        CS — Ticket System helps businesses manage customer support requests efficiently.
+                        CS — Ticket System helps businesses manage customer support requests efficiently. <br/>
                         Track issues, monitor progress, and resolve tickets faster with our smart support platform.
 
                     </p>

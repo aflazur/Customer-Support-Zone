@@ -28,7 +28,7 @@ const TicketCard = ({ playerPromise, handleAddTask, removed }) => {
                                     {customer.title}
                                 </h3>
 
-                                <p className="bg-[#B9F8CF] rounded-2xl flex items-center p-1 gap-2">
+                                <p className="bg-[#B9F8CF] rounded-2xl flex items-center p-1 px-2 gap-2">
                                     <img src={ellipse} alt="" />
                                     {customer.status}
                                 </p>
